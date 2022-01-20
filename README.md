@@ -6,5 +6,4 @@ Reducer, dispatch are also used.
 
 〜(￣▽￣〜) a quick demo (〜￣▽￣)〜
 
-![Alt Text]("https://giphy.com/embed/g99GADoIdLowubta0X"))
-
+![todoApp1](https://user-images.githubusercontent.com/25049177/150411693-5e9dee2a-ca66-4067-b299-73ba037db0ea.gif)
